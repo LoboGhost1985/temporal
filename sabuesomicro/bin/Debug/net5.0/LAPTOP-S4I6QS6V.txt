@@ -1,0 +1,388 @@
+Cliente|ACEVEDO|2.0.0|v46
+OperatingSystem|LAPTOP-S4I6QS6V |64 bits |Microsoft Windows 11 Enterprise |C: | 10.0.22621 | 14/9/2023 09:48:42
+Perfil|Basico
+Zhoraria|SA Western Standard Time|(UTC-04:00) Georgetown La Paz Manaus San Juan|SA Western Standard Time|SA Western Daylight Time|2023-09-14 9:48:42
+Error|SRUDB.dat| No se puede encontrar una parte de la ruta de acceso 'C:\SABUESOTI\SRUDB.dat.export'.
+Error|copia archivos web cache del sistema| No se puede cargar el archivo o ensamblado 'Esent.Interop, Version=2.0.4.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35' ni una de sus dependencias. Error de validación del nombre seguro. (Excepción de HRESULT: 0x8013141A)
+Usuariolocal| Administrator| | 
+Usuariolocal| DefaultAccount| | 
+Usuariolocal| Guest| | 
+Usuariolocal| h| 14/9/2023 08:41:42| 
+Usuariolocal| WDAGUtilityAccount| | 
+DispositivosUSB| USB\ROOT_HUB30\4&27BCF9AB&0&0| USB\ROOT_HUB30\4&27BCF9AB&0&0| Concentrador raíz USB (USB 3.0)
+DispositivosUSB| USB\VID_322E&PID_2103&MI_00\6&14A1A621&0&0000| USB\VID_322E&PID_2103&MI_00\6&14A1A621&0&0000| Integrated Camera
+DispositivosUSB| USB\VID_045E&PID_0039\5&228E8A6C&0&6| USB\VID_045E&PID_0039\5&228E8A6C&0&6| Microsoft USB IntelliMouse Optical
+DispositivosUSB| USB\VID_8087&PID_0AAA\5&228E8A6C&0&10| USB\VID_8087&PID_0AAA\5&228E8A6C&0&10| Intel(R) Wireless Bluetooth(R)
+DispositivosUSB| USB\VID_322E&PID_2103\5&228E8A6C&0&5| USB\VID_322E&PID_2103\5&228E8A6C&0&5| Dispositivo compuesto USB
+DispositivosUSB| USB\VID_0D8C&PID_0005&MI_02\6&968C362&0&0002| USB\VID_0D8C&PID_0005&MI_02\6&968C362&0&0002| Dispositivo de entrada USB
+DispositivosUSB| USB\VID_0D8C&PID_0005&MI_00\6&968C362&0&0000| USB\VID_0D8C&PID_0005&MI_00\6&968C362&0&0000| USB Audio Class 1.0 and 2.0 DAC Device Driver
+DispositivosUSB| USB\VID_0D8C&PID_0005\201306| USB\VID_0D8C&PID_0005\201306| Dispositivo compuesto USB
+Sharefolder| Remote Admin| Remote Admin| | OK| | True| | ADMIN$| C:\WINDOWS| Disk Drive Admin
+Sharefoldersecurity| ADMIN$| C:\WINDOWS| CREATOR OWNER| FullControl
+Sharefoldersecurity| ADMIN$| C:\WINDOWS| NT AUTHORITY\SYSTEM| FullControl
+Sharefoldersecurity| ADMIN$| C:\WINDOWS| NT AUTHORITY\SYSTEM| Modify, Synchronize
+Sharefoldersecurity| ADMIN$| C:\WINDOWS| BUILTIN\Administrators| FullControl
+Sharefoldersecurity| ADMIN$| C:\WINDOWS| BUILTIN\Administrators| Modify, Synchronize
+Sharefoldersecurity| ADMIN$| C:\WINDOWS| BUILTIN\Users| ReadAndExecute, Synchronize
+Sharefoldersecurity| ADMIN$| C:\WINDOWS| BUILTIN\Users| ReadAndExecute, Synchronize
+Sharefoldersecurity| ADMIN$| C:\WINDOWS| NT SERVICE\TrustedInstaller| FullControl
+Sharefoldersecurity| ADMIN$| C:\WINDOWS| NT SERVICE\TrustedInstaller| FullControl
+Sharefoldersecurity| ADMIN$| C:\WINDOWS| APPLICATION PACKAGE AUTHORITY\ALL APPLICATION PACKAGES| ReadAndExecute, Synchronize
+Sharefoldersecurity| ADMIN$| C:\WINDOWS| APPLICATION PACKAGE AUTHORITY\ALL APPLICATION PACKAGES| ReadAndExecute, Synchronize
+Sharefoldersecurity| ADMIN$| C:\WINDOWS| APPLICATION PACKAGE AUTHORITY\ALL RESTRICTED APPLICATION PACKAGES| ReadAndExecute, Synchronize
+Sharefoldersecurity| ADMIN$| C:\WINDOWS| APPLICATION PACKAGE AUTHORITY\ALL RESTRICTED APPLICATION PACKAGES| ReadAndExecute, Synchronize
+Sharefolder| Default share| Default share| | OK| | True| | C$| C:\| Disk Drive Admin
+Sharefoldersecurity| C$| C:\| NT AUTHORITY\Authenticated Users| AppendData
+Sharefoldersecurity| C$| C:\| NT AUTHORITY\Authenticated Users| Modify, Synchronize
+Sharefoldersecurity| C$| C:\| NT AUTHORITY\SYSTEM| FullControl
+Sharefoldersecurity| C$| C:\| BUILTIN\Administrators| FullControl
+Sharefoldersecurity| C$| C:\| BUILTIN\Users| ReadAndExecute, Synchronize
+Sharefoldersecurity| C$| C:\| S-1-15-3-65536-1888954469-739942743-1668119174-2468466756-4239452838-1296943325-355587736-700089176| ReadData, ExecuteFile, ReadAttributes, Synchronize
+Sharefolder| Remote IPC| Remote IPC| | OK| | True| | IPC$| | IPC Admin
+perfilwifi| Perfil de todos los usuarios     : H
+perfilwifi| Perfil de todos los usuarios     : USB-Laboratorios
+perfilwifi| Perfil de todos los usuarios     : nyxwireless
+perfilwifi| Perfil de todos los usuarios     : IDEB
+perfilwifi| Perfil de todos los usuarios     : Galaxy A23D476
+perfilwifi| Perfil de todos los usuarios     : FamiliaMamani5G
+perfilwifi| Perfil de todos los usuarios     : ZTE_5G_nhpdZC
+perfilwifi| Perfil de todos los usuarios     : ZTE_2.4G_nhpdZC
+perfilwifi| Perfil de todos los usuarios     : Familia Mamani
+perfilwifi| Perfil de todos los usuarios     : SQUEMAS-4
+perfilwifi| Perfil de todos los usuarios     : SQUEMAS-1
+perfilwifi| Perfil de todos los usuarios     : AXS_5G_XDmR6X
+perfilwifi| Perfil de todos los usuarios     : Familia Alarcon
+perfilwifi| Perfil de todos los usuarios     : ZTE_2.4G_6drcXK
+PhysicalMemory| 12
+LogicalDiskD| C:| Disco fijo local| C:| NTFS| Local hard disk| 162| 475
+LogicalDisk| 162| 475
+Processor| Intel(R) Core(TM) i5-1035G1 CPU @ 1.00GHz | GenuineIntel
+BIOS| N2N0CX08P210078| American Megatrends Inc.
+APLICACION|Microsoft Azure Compute Emulator - v2.9.7| 2.9.8999.43| 11/1/2023| Microsoft Corporation
+APLICACION|Microsoft Visual Studio 2010 Tools for Office Runtime (x64)| 10.0.50903| | Microsoft Corporation
+APLICACION|Paquete de idioma de Microsoft Visual Studio 2010 Tools para Office Runtime (x64) - ESN| 10.0.50903| | Microsoft Corporation
+APLICACION|Mozilla Firefox (x64 es-ES)| 111.0.1| | Mozilla
+APLICACION|Mozilla Maintenance Service| 107.0.1| | Mozilla
+APLICACION|Notepad++ (64-bit x64)| 8.4.7| | Notepad++ Team
+APLICACION|Microsoft 365 Apps for enterprise - en-us| 16.0.16731.20170| | Microsoft Corporation
+APLICACION|Aplicaciones de Microsoft 365 para empresas - es-mx| 16.0.16731.20170| | Microsoft Corporation
+APLICACION|Microsoft OneDrive| 23.186.0905.0002| | Microsoft Corporation
+APLICACION|Microsoft OneNote - en-us| 16.0.16731.20170| | Microsoft Corporation
+APLICACION|Microsoft OneNote - es-mx| 16.0.16731.20170| | Microsoft Corporation
+APLICACION|Microsoft Visio - en-us| 16.0.16731.20170| | Microsoft Corporation
+APLICACION|Microsoft Visio - es-mx| 16.0.16731.20170| | Microsoft Corporation
+APLICACION|VLC media player| 3.0.18| | VideoLAN
+APLICACION|WinRAR 6.11 (64-bit)| 6.11.0| | win.rar GmbH
+APLICACION|MiniTool Partition Wizard Free 12.8| 12.8| 20230906| MiniTool Software Limited
+APLICACION|Free Download Manager| 6.19.0.5156| 20230321| Softdeluxe
+APLICACION|VMware Workstation| 17.0.0| 20230901| VMware, Inc.
+APLICACION|Canon MG2500 series MP Drivers| 1.02| | Canon Inc.
+APLICACION|VirtualDJ 2023| 8.5.7607.0| 20230907| Atomix Productions
+APLICACION|Microsoft System CLR Types para SQL Server 2019| 15.0.2000.5| 20230110| Microsoft Corporation
+APLICACION|Microsoft Azure PowerShell - April 2018| 5.7.0.18831| 20230111| Microsoft Corporation
+APLICACION|Microsoft .NET SDK 7.0.302 (x64) from Visual Studio| 7.3.223.25905| 20230601| Microsoft Corporation
+APLICACION|IIS 10.0 Express| 10.0.07728| 20230601| Microsoft Corporation
+APLICACION|Microsoft Visual Studio Installer| 3.6.2115.31769| 20230110| Microsoft Corporation
+APLICACION|PDF24 Creator 11.10.1| 11.10.1| 20230203| PDF24.org
+APLICACION|VirtualDJ 2023| 8.5.7555.0| 20230710| Atomix Productions
+APLICACION|Microsoft ODBC Driver 17 for SQL Server| 17.7.2.1| 20230110| Microsoft Corporation
+APLICACION|Microsoft Azure Authoring Tools - v2.9.7| 2.9.8999.45| 20230111| Microsoft Corporation
+APLICACION|Microsoft Visio Viewer 2016| 16.0.4339.1001| 20230728| Microsoft Corporation
+APLICACION|Adobe Acrobat (64-bit)| 23.003.20284| 20230823| Adobe
+APLICACION|Microsoft Update Health Tools| 5.71.0.0| 20230905| Microsoft Corporation
+APLICACION|Microsoft Web Deploy 4.0| 10.0.7225| 20230601| Microsoft Corporation
+APLICACION|Microsoft Azure Libraries for .NET – v2.9| 3.0.0127.060| 20230111| Microsoft Corporation
+APLICACION|AnyDesk| ad 7.1.16| | AnyDesk Software GmbH
+APLICACION|Battle.net| | | Blizzard Entertainment
+APLICACION|Blue Sherpa| | | Blue Microphones
+APLICACION|Canon MG2500 series On-screen Manual| 7.8.0| | Canon Inc.
+APLICACION|Canon My Image Garden| 3.6.4| | Canon Inc.
+APLICACION|Canon My Image Garden Design Files| 3.6.0| | Canon Inc.
+APLICACION|Canon My Printer| 3.3.0| | Canon Inc.
+APLICACION|Canon Quick Menu| 2.8.5| | Canon Inc.
+APLICACION|Cisco AnyConnect Secure Mobility Client | 4.4.00243| | Cisco Systems, Inc.
+APLICACION|Visual Studio Professional 2022| 17.6.2| 20230111| Microsoft Corporation
+APLICACION|Google Chrome| 116.0.5845.188| 20230912| Google LLC
+APLICACION|Microsoft Edge| 116.0.1938.81| 20230914| Microsoft Corporation
+APLICACION|Microsoft Edge Update| 1.3.177.11| | 
+APLICACION|Microsoft Edge WebView2 Runtime| 116.0.1938.76| 20230909| Microsoft Corporation
+APLICACION|Npcap OEM| 1.10| | Nmap Project
+APLICACION|OBS Studio| 28.1.2| | OBS Project
+APLICACION|Pointofix| | 20230727| Amerigomedia
+APLICACION|Sistema Contable JET PRO.e 64 Bits 2023| 2023| 20230705| Grupo Informatica y Gestion S.R.L.
+APLICACION|StarCraft| | | Blizzard Entertainment
+APLICACION|StarCraft II| | | Blizzard Entertainment
+APLICACION|VCE Exam Simulator Demo| | 20230516| Avanset
+APLICACION|WinSCP 6.1.1| 6.1.1| 20230812| Martin Prikryl
+APLICACION|Microsoft Windows Desktop Runtime - 6.0.22 (x64)| 6.0.22.32825| | Microsoft Corporation
+APLICACION|Microsoft Intune Management Extension| 1.66.152.0| 20230514| Microsoft Corporation
+APLICACION|Microsoft Visual C++ 2015-2022 Redistributable (x64) - 14.32.31332| 14.32.31332.0| | Microsoft Corporation
+APLICACION|Microsoft ASP.Net Web Frameworks 5.0 Security Update (KB2992080)| 5.0.20821| 20221220| Microsoft Corporation
+APLICACION|Sophos Connect| 2.2.75.0506| 20221208| Sophos Ltd
+APLICACION|vs_CoreEditorFonts| 17.6.33605| 20230601| Microsoft Corporation
+APLICACION|Microsoft Visual C++ 2015-2022 Redistributable (x86) - 14.34.31931| 14.34.31931.0| | Microsoft Corporation
+APLICACION|Teams Machine-Wide Installer| 1.5.0.8070| 20221128| Microsoft Corporation
+APLICACION|Python Launcher| 3.11.3150.0| 20230516| Python Software Foundation
+APLICACION|Microsoft .NET Core SDK 3.1.426 (x64)| 3.1.426.16244| | Microsoft Corporation
+UPDATEH|Actualización de inteligencia de seguridad para Microsoft Defender Antivirus - KB2267602 (Versión 1.397.939.0) | da5da602-e516-407a-bde1-c2fdd322a0aa
+UPDATEH|Herramienta de eliminación de software malintencionado de Windows x64, v5.117 (KB890830) | 91722aa2-d45a-4a79-b59a-2365f590b8c6
+UPDATEH|2023-09 Actualización acumulativa para Windows 11 Version 22H2 para sistemas basados en x64 (KB5030219) | 51b8cbee-1d47-4c9a-9120-f6d98c88125e
+UPDATEH|2023-09 Actualización acumulativa de .NET Framework 3.5 y 4.8.1 para Windows 11, version 22H2 para x64 (KB5031217) | fa507ebb-7a30-4b88-ab8a-ad53c7fbebd7
+UPDATEH|Actualización de inteligencia de seguridad para Microsoft Defender Antivirus - KB2267602 (Versión 1.397.890.0) | e592363c-a465-4d3c-bf6a-a19551f0e956
+UPDATEH|2023-09 .NET 6.0.22 Security Update for x64 Client (KB5030559) | a525a8b5-1ffa-4b46-bdc9-b93ed068761a
+UPDATEH|Actualización de inteligencia de seguridad para Microsoft Defender Antivirus - KB2267602 (Versión 1.397.870.0) | 903193f4-0d6a-482b-bb2b-20a3e738b8c1
+UPDATEH|ASUSTeK COMPUTER INC. - System - 3.1.18.0 | d8899cbd-b7c6-451c-9dd7-40f7479749a7
+UPDATEH|Actualización de inteligencia de seguridad para Microsoft Defender Antivirus - KB2267602 (Versión 1.397.831.0) | 1cac14b1-6ab8-4fcb-aa58-c7609a100582
+UPDATEH|Actualización de inteligencia de seguridad para Microsoft Defender Antivirus - KB2267602 (Versión 1.397.814.0) | 561bcf33-cc32-4f88-92a3-079d628fa303
+UPDATEH|Canon - Printer - 2.70.2.12 | d8019d2c-ec76-4166-84a2-8126fac48b5a
+UPDATEH|Actualización de inteligencia de seguridad para Microsoft Defender Antivirus - KB2267602 (Versión 1.397.776.0) | cf54e3d3-9c1a-42cf-b5b7-e222bc70175d
+UPDATEH|Actualización de inteligencia de seguridad para Microsoft Defender Antivirus - KB2267602 (Versión 1.397.753.0) | d12653b9-691d-4073-afbe-bc0ce3bfacaa
+UPDATEH|Actualización de inteligencia de seguridad para Microsoft Defender Antivirus - KB2267602 (Versión 1.397.719.0) | 673be7c7-766b-42d6-8ed5-d13f839de229
+UPDATEH|Actualización de inteligencia de seguridad para Microsoft Defender Antivirus - KB2267602 (Versión 1.397.688.0) | be658c62-1624-4b3f-b287-eb530d74f6cf
+UPDATEH|Actualización de inteligencia de seguridad para Microsoft Defender Antivirus - KB2267602 (Versión 1.397.612.0) | c69f9a7b-9f4f-4ef1-86cf-af77a53be0ce
+UPDATEH|Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.397.556.0) | d7ab4361-4d7c-42aa-b302-21c014b35b6a
+UPDATEH|Actualización de inteligencia de seguridad para Microsoft Defender Antivirus - KB2267602 (Versión 1.397.548.0) | f6cfdaed-5db9-4571-93ae-d58a7e2fe1fa
+UPDATEH|Actualización de inteligencia de seguridad para Microsoft Defender Antivirus - KB2267602 (Versión 1.397.518.0) | 1b38c7c1-575a-48e5-9fa7-2848ba629d53
+UPDATEH|Actualización de inteligencia de seguridad para Microsoft Defender Antivirus - KB2267602 (Versión 1.397.486.0) | cdc0987c-2f45-4c4a-aa38-0df6454c7e9f
+UPDATEH|2023-08 Actualización de Windows 11 Version 22H2 para x64 sistemas basados en (KB4023057) | 66b17e1a-cfad-4ca7-a3d5-f23ee7a57e66
+UPDATEH|Actualización de inteligencia de seguridad para Microsoft Defender Antivirus - KB2267602 (Versión 1.397.453.0) | c1f81416-82b2-4e76-b3c6-3fbc4fa36e3e
+UPDATEH|Actualización de inteligencia de seguridad para Microsoft Defender Antivirus - KB2267602 (Versión 1.397.422.0) | 0eae89cc-99a3-486a-8f0f-0d6ca50267b3
+UPDATEH|Actualización de inteligencia de seguridad para Microsoft Defender Antivirus - KB2267602 (Versión 1.397.358.0) | dc90c7e0-548f-441c-a19a-60728cf8f344
+UPDATEH|Canon - Printer - 2.70.2.12 | d8019d2c-ec76-4166-84a2-8126fac48b5a
+UPDATEH|Actualización de inteligencia de seguridad para Microsoft Defender Antivirus - KB2267602 (Versión 1.397.316.0) | 83131def-bb20-4f03-9678-cc125c2fd706
+UPDATEH|Actualización de inteligencia de seguridad para Microsoft Defender Antivirus - KB2267602 (Versión 1.397.251.0) | a44513fe-cbda-4543-9a04-6d018fd363c0
+UPDATEH|Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.397.186.0) | 6d8e6374-93b7-461f-b869-f9c5f1b935d1
+UPDATEH|Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.397.101.0) | cca3d41e-d83d-412e-9101-2537aa736ea0
+UPDATEH|Actualización de la plataforma antimalware de Microsoft Defender Antivirus - KB4052623 (versión 4.18.23080.2006) | 77202973-0b1e-4181-a293-7ef1933c36dc
+UPDATEH|Actualización de inteligencia de seguridad para Microsoft Defender Antivirus - KB2267602 (Versión 1.397.96.0) | 6222c5ac-63f5-422c-a545-fddc74f546af
+UPDATEH|Actualización de inteligencia de seguridad para Microsoft Defender Antivirus - KB2267602 (Versión 1.397.49.0) | c4fa52cd-c36d-49bd-977b-41a9afd61ea8
+UPDATEH|Canon - Printer - 2.70.2.12 | d8019d2c-ec76-4166-84a2-8126fac48b5a
+UPDATEH|Actualización de inteligencia de seguridad para Microsoft Defender Antivirus - KB2267602 (Versión 1.395.1599.0) | 50d21f04-3dce-4ba7-b48a-763d7ae5889c
+UPDATEH|Actualización de inteligencia de seguridad para Microsoft Defender Antivirus - KB2267602 (Versión 1.395.1564.0) | 7724112b-463e-44c8-b4d4-a8e1b8b42964
+UPDATEH|Actualización de inteligencia de seguridad para Microsoft Defender Antivirus - KB2267602 (Versión 1.395.1383.0) | b56568a0-669d-4a7d-bc1e-508f404cc0ac
+UPDATEH|Canon - Printer - 2.70.2.12 | d8019d2c-ec76-4166-84a2-8126fac48b5a
+UPDATEH|Actualización de inteligencia de seguridad para Microsoft Defender Antivirus - KB2267602 (Versión 1.395.1324.0) | b3fe6a1b-8506-4ce8-81e3-d40c4e83b608
+UPDATEH|Actualización de inteligencia de seguridad para Microsoft Defender Antivirus - KB2267602 (Versión 1.395.1296.0) | 685ee9b2-7352-420e-bde5-92dfea669042
+UPDATEH|Actualización de inteligencia de seguridad para Microsoft Defender Antivirus - KB2267602 (Versión 1.395.1258.0) | 3a62d786-f4e1-489f-93c5-9b3a38a11d78
+UPDATEH|Actualización de inteligencia de seguridad para Microsoft Defender Antivirus - KB2267602 (Versión 1.395.1211.0) | 65298a5f-bd5b-493f-a353-da038f11cd71
+UPDATEH|2023-08 Actualización acumulativa para Windows 11 Version 22H2 para sistemas basados en x64 (KB5029351) | 53bf117e-6ef6-4e8a-b5ce-c72d5d4c625d
+UPDATEH|2023-08 Vista previa de actualización acumulativa de .NET Framework 3.5 y 4.8.1 para Windows 11, version 22H2 para x64 (KB5029718) | ecd69746-4d0f-4f2e-82a8-e9f19f25200e
+UPDATEH|Actualización de inteligencia de seguridad para Microsoft Defender Antivirus - KB2267602 (Versión 1.395.1158.0) | 4899d7ff-6118-4fb6-b048-d6b4acc8c970
+UPDATEH|Actualización de inteligencia de seguridad para Microsoft Defender Antivirus - KB2267602 (Versión 1.395.1124.0) | 18033b86-7379-4c43-8c00-833ed0bfb097
+UPDATEH|Actualización de inteligencia de seguridad para Microsoft Defender Antivirus - KB2267602 (Versión 1.395.1065.0) | 4d52e550-3cd5-4911-b0bd-2812b91580a5
+UPDATEH|Actualización de inteligencia de seguridad para Microsoft Defender Antivirus - KB2267602 (Versión 1.395.1029.0) | 3ff395a8-587a-46e4-ab9c-86202c7a58fb
+UPDATEH|Actualización de inteligencia de seguridad para Microsoft Defender Antivirus - KB2267602 (Versión 1.395.987.0) | cecd1421-4db3-4a16-b585-0562856c76e7
+UPDATEH|Actualización de inteligencia de seguridad para Microsoft Defender Antivirus - KB2267602 (Versión 1.395.918.0) | 126910ae-7f28-411e-81cc-f49d2159b844
+userprofiles| .NET v4.5
+userprofiles| .NET v4.5 Classic
+userprofiles| All Users
+userprofiles| Default
+userprofiles| Default User
+userprofiles| DefaultAppPool
+userprofiles| h
+userprofiles| HenryMamani
+userprofiles| Public
+BROWSER| Chrome| h| History| http://13.90.40.173
+BROWSER| Chrome| h| History| http://190.181.30.66
+BROWSER| Chrome| h| History| http://192.168.1.1
+BROWSER| Chrome| h| History| http://192.168.110.1
+BROWSER| Chrome| h| History| http://20.60.6.228
+BROWSER| Chrome| h| History| http://34.102.137.201
+BROWSER| Chrome| h| History| http://3600space.com
+BROWSER| Chrome| h| History| http://40.70.211.138
+BROWSER| Chrome| h| History| http://ablink.factura.tigo.com.bo
+BROWSER| Chrome| h| History| http://admin.microsoft.com
+BROWSER| Chrome| h| History| http://aicurso.fcpn.edu.bo
+BROWSER| Chrome| h| History| http://amazon.com
+BROWSER| Chrome| h| History| http://apps.powerapps.com
+BROWSER| Chrome| h| History| http://azureprice.net
+BROWSER| Chrome| h| History| http://ba-lon-ces-to.blogspot.com
+BROWSER| Chrome| h| History| http://battle.net
+BROWSER| Chrome| h| History| http://bcp.com.bo
+BROWSER| Chrome| h| History| http://bit.ly
+BROWSER| Chrome| h| History| http://blog.chinaunix.net
+BROWSER| Chrome| h| History| http://blog.schertz.name
+BROWSER| Chrome| h| History| http://bnf.gov.py
+BROWSER| Chrome| h| History| http://boliviapymes.com
+BROWSER| Chrome| h| History| http://byobi.com
+BROWSER| Chrome| h| History| http://c1781916.ferozo.com
+BROWSER| Chrome| h| History| http://canva.com
+BROWSER| Chrome| h| History| http://certificados.fcpn.edu.bo
+BROWSER| Chrome| h| History| http://certiport.com
+BROWSER| Chrome| h| History| http://chat.openai.com
+BROWSER| Chrome| h| History| http://checktls.com
+BROWSER| Chrome| h| History| http://ciberit.com.bo
+BROWSER| Chrome| h| History| http://ciberitcombo.sharepoint.com
+BROWSER| Chrome| h| History| http://ciberitcombo-my.sharepoint.com
+BROWSER| Chrome| h| History| http://citaprevia.umsa.bo
+BROWSER| Chrome| h| History| http://clintboessen.blogspot.com
+BROWSER| Chrome| h| History| http://cloud.labsag.co.uk
+BROWSER| Chrome| h| History| http://cloudpartners.transform.microsoft.com
+BROWSER| Chrome| h| History| http://contadores-aic.org
+BROWSER| Chrome| h| History| http://cotana.informatica.edu.bo
+BROWSER| Chrome| h| History| http://cs.co
+BROWSER| Chrome| h| History| http://culturatributaria.impuestos.gob.bo
+BROWSER| Chrome| h| History| http://detecbol.com
+BROWSER| Chrome| h| History| http://donweb.com
+BROWSER| Chrome| h| History| http://ds-lapaz.edu.bo
+BROWSER| Chrome| h| History| http://e5.onthehub.com
+BROWSER| Chrome| h| History| http://embezzlementteddy.com
+BROWSER| Chrome| h| History| http://es.all-specs.net
+BROWSER| Chrome| h| History| http://es.kommo.com
+BROWSER| Chrome| h| History| http://esma.edu.bo
+BROWSER| Chrome| h| History| http://evodia.com.py
+BROWSER| Chrome| h| History| http://exactconfigurationhasten.com
+BROWSER| Chrome| h| History| http://explore.ms
+BROWSER| Chrome| h| History| http://facebook.com
+BROWSER| Chrome| h| History| http://febamba.com
+BROWSER| Chrome| h| History| http://flinchbot.com
+BROWSER| Chrome| h| History| http://foros.acb.com
+BROWSER| Chrome| h| History| http://geforcenow.com
+BROWSER| Chrome| h| History| http://gemtrix.com
+BROWSER| Chrome| h| History| http://gemtrix.net
+BROWSER| Chrome| h| History| http://gmail.com
+BROWSER| Chrome| h| History| http://gmetrix.net
+BROWSER| Chrome| h| History| http://goingbicyclepolitically.com
+BROWSER| Chrome| h| History| http://google.com
+BROWSER| Chrome| h| History| http://gstatic.com
+BROWSER| Chrome| h| History| http://hbomax.com
+BROWSER| Chrome| h| History| http://hotmail.com
+BROWSER| Chrome| h| History| http://huevosanchez.com.ar
+BROWSER| Chrome| h| History| http://hunter.io
+BROWSER| Chrome| h| History| http://improvementscaptivatevenus.com
+BROWSER| Chrome| h| History| http://impuestos.gob.bo
+BROWSER| Chrome| h| History| http://intepigo.com
+BROWSER| Chrome| h| History| http://jmakuc.www.imtr.ublog.cl
+BROWSER| Chrome| h| History| http://labsag.co.uk
+BROWSER| Chrome| h| History| http://learn.microsoft.com
+BROWSER| Chrome| h| History| http://lexivox.org
+BROWSER| Chrome| h| History| http://linkedin.com
+BROWSER| Chrome| h| History| http://logi661161.myorderbox.com
+BROWSER| Chrome| h| History| http://login.microsoftonline.com
+BROWSER| Chrome| h| History| http://manage.gmetrix.net
+BROWSER| Chrome| h| History| http://maps.google.com
+BROWSER| Chrome| h| History| http://mha.azurewebsites.net
+BROWSER| Chrome| h| History| http://microfiberfishingtowel.com
+BROWSER| Chrome| h| History| http://minedu.gob.bo
+BROWSER| Chrome| h| History| http://miteleferico.bo
+BROWSER| Chrome| h| History| http://msdn.microsoft.com
+BROWSER| Chrome| h| History| http://multicine.com.bo
+BROWSER| Chrome| h| History| http://my.visualstudio.com
+BROWSER| Chrome| h| History| http://netflix.com
+BROWSER| Chrome| h| History| http://nic.bo
+BROWSER| Chrome| h| History| http://nic.com
+BROWSER| Chrome| h| History| http://ninjashoppings.com
+BROWSER| Chrome| h| History| http://obduratecommence.com
+BROWSER| Chrome| h| History| http://office.com
+BROWSER| Chrome| h| History| http://onedrive.live.com
+BROWSER| Chrome| h| History| http://otnolatrnup.com
+BROWSER| Chrome| h| History| http://outlook.office.com
+BROWSER| Chrome| h| History| http://ov.impuestos.gob.bo
+BROWSER| Chrome| h| History| http://partner.microsoft.com
+BROWSER| Chrome| h| History| http://pelisplus.lat
+BROWSER| Chrome| h| History| http://personaldocente.com
+BROWSER| Chrome| h| History| http://petri.com
+BROWSER| Chrome| h| History| http://pimpleinterference.com
+BROWSER| Chrome| h| History| http://pizarradigitaltomi.com.ar
+BROWSER| Chrome| h| History| http://portal.azure.com
+BROWSER| Chrome| h| History| http://portalsabueso.azurewebsites.net
+BROWSER| Chrome| h| History| http://postgrado.unifranz.camp
+BROWSER| Chrome| h| History| http://postgrado.uto.edu.bo
+BROWSER| Chrome| h| History| http://postgradosiglo20cp.org
+BROWSER| Chrome| h| History| http://practicepeter.com
+BROWSER| Chrome| h| History| http://prajwaldesai.com
+BROWSER| Chrome| h| History| http://prayfortnight.com
+BROWSER| Chrome| h| History| http://procurement-notices.undp.org
+BROWSER| Chrome| h| History| http://repositorio.uasb.edu.bo
+BROWSER| Chrome| h| History| http://reto.labsag
+BROWSER| Chrome| h| History| http://reto.labsag.co.uk
+BROWSER| Chrome| h| History| http://ri.uaemex.mx
+BROWSER| Chrome| h| History| http://saf.usalesiana.edu.bo
+BROWSER| Chrome| h| History| http://scielo.isciii.es
+BROWSER| Chrome| h| History| http://scribd.vdownloaders.com
+BROWSER| Chrome| h| History| http://sigep.gob.bo
+BROWSER| Chrome| h| History| http://social.technet.microsoft.com
+BROWSER| Chrome| h| History| http://speedtest.net
+BROWSER| Chrome| h| History| http://spotify.com
+BROWSER| Chrome| h| History| http://store.microsoft.com
+BROWSER| Chrome| h| History| http://stores.ebay.com
+BROWSER| Chrome| h| History| http://summercovert.com
+BROWSER| Chrome| h| History| http://support.microsoft.com
+BROWSER| Chrome| h| History| http://support.serviceshub.microsoft.com
+BROWSER| Chrome| h| History| http://sv.anemucn.icu
+BROWSER| Chrome| h| History| http://sv.boanfo.cfd
+BROWSER| Chrome| h| History| http://technet.microsoft.com
+BROWSER| Chrome| h| History| http://testconnectivity.microsoft.com
+BROWSER| Chrome| h| History| http://thepiratebay.org
+BROWSER| Chrome| h| History| http://tramitesenlinea.umsa.bo
+BROWSER| Chrome| h| History| http://trk.rockwound.site
+BROWSER| Chrome| h| History| http://trk.us.underarmour.com
+BROWSER| Chrome| h| History| http://truecaller.com
+BROWSER| Chrome| h| History| http://uacucb.edu.bo
+BROWSER| Chrome| h| History| http://ubilapaz.edu.bo
+BROWSER| Chrome| h| History| http://ucsniff.sourceforge.net
+BROWSER| Chrome| h| History| http://udabol.edu.bo
+BROWSER| Chrome| h| History| http://unicen.edu.bo
+BROWSER| Chrome| h| History| http://unifiedpeople.ru
+BROWSER| Chrome| h| History| http://unitepc.edu.bo
+BROWSER| Chrome| h| History| http://validate12.hostinger.com
+BROWSER| Chrome| h| History| http://vidayverdad.org.bo
+BROWSER| Chrome| h| History| http://virtual.3600space.com
+BROWSER| Chrome| h| History| http://virtual.postgradosiglo20cp.org
+BROWSER| Chrome| h| History| http://virtual.urbe.edu
+BROWSER| Chrome| h| History| http://vmware.com
+BROWSER| Chrome| h| History| http://wa.me
+BROWSER| Chrome| h| History| http://wakelardassistance.com
+BROWSER| Chrome| h| History| http://webkay.robinlinus.com
+BROWSER| Chrome| h| History| http://windowdemiselowlife.com
+BROWSER| Chrome| h| History| http://wsservicios.lapaz.bo
+BROWSER| Chrome| h| History| http://ww1.rahim-soft.net
+BROWSER| Chrome| h| History| http://ww17.gemtrix.net
+BROWSER| Chrome| h| History| http://www.armada.mil.bo
+BROWSER| Chrome| h| History| http://www.att.gob.bo
+BROWSER| Chrome| h| History| http://www.bloodzone.net
+BROWSER| Chrome| h| History| http://www.bnb.com.bo
+BROWSER| Chrome| h| History| http://www.bolivia.generadordeprecios.info
+BROWSER| Chrome| h| History| http://www.boliviamia.net
+BROWSER| Chrome| h| History| http://www.certiport.com
+BROWSER| Chrome| h| History| http://www.detecbol.com
+BROWSER| Chrome| h| History| http://www.dspace.uce.edu.ec
+BROWSER| Chrome| h| History| http://www.educapanama.edu.pa
+BROWSER| Chrome| h| History| http://www.emailhippo.com
+BROWSER| Chrome| h| History| http://www.facebook.com
+BROWSER| Chrome| h| History| http://www.fexpocruz.com.bo
+BROWSER| Chrome| h| History| http://www.filmaffinity.com
+BROWSER| Chrome| h| History| http://www.fulltv.com.ar
+BROWSER| Chrome| h| History| http://www.gmail.com
+BROWSER| Chrome| h| History| http://www.gstatic.com
+BROWSER| Chrome| h| History| http://www.homiestoys.com
+BROWSER| Chrome| h| History| http://www.huevosanchez.com.ar
+BROWSER| Chrome| h| History| http://www.imdb.com
+BROWSER| Chrome| h| History| http://www.informatica.edu.bo
+BROWSER| Chrome| h| History| http://www.labsag.co.uk
+BROWSER| Chrome| h| History| http://www.labsagunam.com
+BROWSER| Chrome| h| History| http://www.mariainmaculada.edu.bo
+BROWSER| Chrome| h| History| http://www.michelsenconsulting.com
+BROWSER| Chrome| h| History| http://www.microsoft.com
+BROWSER| Chrome| h| History| http://www.minedu.gob.bo
+BROWSER| Chrome| h| History| http://www.msftconnecttest.com
+BROWSER| Chrome| h| History| http://www.netflix.com
+BROWSER| Chrome| h| History| http://www.nosolocine.es
+BROWSER| Chrome| h| History| http://www.ozyetai.cfd
+BROWSER| Chrome| h| History| http://www.suzuki.com.bo
+BROWSER| Chrome| h| History| http://www.uajms.edu.bo
+BROWSER| Chrome| h| History| http://www.umsa.bo
+BROWSER| Chrome| h| History| http://www.usalesiana.edu.bo
+BROWSER| Chrome| h| History| http://www.utb.edu.bo
+BROWSER| Chrome| h| History| http://www.vaxet.icu
+BROWSER| Chrome| h| History| http://www.wireshark.org
+BROWSER| Chrome| h| History| http://www.xbox.com
+BROWSER| Chrome| h| History| http://www.youtube.com
+BROWSER| Chrome| h| History| http://xbox.com
+BROWSER| Chrome| h| History| http://xsoft.com.bo
+BROWSER| Chrome| h| History| http://youtu.be
+BROWSER| Chrome| h| History| http://youtube.com
+BROWSER| Chrome| h| History| http://zephy-dsw.com
+BROWSER| Chrome| h| History| http://zoom.us
+BROWSER| Firefox| h| History| 
+TRAFICORED| Wi-Fi| 1505909134| 1916289| 485083988| 845404|

@@ -1,0 +1,182 @@
+Cliente|COGNOSIT|2.0.0|v46
+OperatingSystem|LOBOMOVIL |64-bit |Microsoft Windows 10 Enterprise |C: | 10.0.19045 | 09/14/2023 12:50:16 AM
+Perfil|Basico
+Zhoraria|SA Western Standard Time|(UTC-04:00) Georgetown La Paz Manaus San Juan|SA Western Standard Time|SA Western Daylight Time|2023-09-14 0:50:16
+Error|copia archivos web cache del sistema| Could not load file or assembly 'Esent.Interop, Version=2.0.4.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35' or one of its dependencies. Strong name validation failed. (Exception from HRESULT: 0x8013141A)
+Usuariolocal| Administrator| | 
+Usuariolocal| DefaultAccount| | 
+Usuariolocal| Dorian| 08/02/2023 1:21:49 PM| 
+Usuariolocal| Guest| | 
+Usuariolocal| WDAGUtilityAccount| | 
+DispositivosUSB| USB\VID_8087&PID_0A2A\5&16BDD27B&0&9| USB\VID_8087&PID_0A2A\5&16BDD27B&0&9| Intel(R) Wireless Bluetooth(R)
+DispositivosUSB| USB\VID_413C&PID_2010\7&11623E24&0&1| USB\VID_413C&PID_2010\7&11623E24&0&1| USB Composite Device
+DispositivosUSB| USB\VID_05E3&PID_0610\5&16BDD27B&0&2| USB\VID_05E3&PID_0610\5&16BDD27B&0&2| Generic USB Hub
+DispositivosUSB| USB\VID_04F2&PID_B450\0X0001| USB\VID_04F2&PID_B450\0X0001| USB Composite Device
+DispositivosUSB| USB\ROOT_HUB30\4&CB12D54&0&0| USB\ROOT_HUB30\4&CB12D54&0&0| USB Root Hub (USB 3.0)
+DispositivosUSB| USB\VID_1BCF&PID_0005\7&11623E24&0&3| USB\VID_1BCF&PID_0005\7&11623E24&0&3| USB Input Device
+DispositivosUSB| USB\VID_04F2&PID_B450&MI_00\6&2D22D06E&0&0000| USB\VID_04F2&PID_B450&MI_00\6&2D22D06E&0&0000| USB Video Device
+DispositivosUSB| USB\VID_413C&PID_2010&MI_00\8&2999E686&0&0000| USB\VID_413C&PID_2010&MI_00\8&2999E686&0&0000| USB Input Device
+DispositivosUSB| USB\VID_413C&PID_1003\6&2F1037CF&0&3| USB\VID_413C&PID_1003\6&2F1037CF&0&3| Generic USB Hub
+DispositivosUSB| USB\VID_413C&PID_2010&MI_01\8&2999E686&0&0001| USB\VID_413C&PID_2010&MI_01\8&2999E686&0&0001| USB Input Device
+Sharefolder| Remote Admin| Remote Admin| | OK| | True| | ADMIN$| C:\Windows| Disk Drive Admin
+Sharefoldersecurity| ADMIN$| C:\Windows| CREATOR OWNER| FullControl
+Sharefoldersecurity| ADMIN$| C:\Windows| NT AUTHORITY\SYSTEM| FullControl
+Sharefoldersecurity| ADMIN$| C:\Windows| NT AUTHORITY\SYSTEM| Modify, Synchronize
+Sharefoldersecurity| ADMIN$| C:\Windows| BUILTIN\Administrators| FullControl
+Sharefoldersecurity| ADMIN$| C:\Windows| BUILTIN\Administrators| Modify, Synchronize
+Sharefoldersecurity| ADMIN$| C:\Windows| BUILTIN\Users| ReadAndExecute, Synchronize
+Sharefoldersecurity| ADMIN$| C:\Windows| BUILTIN\Users| ReadAndExecute, Synchronize
+Sharefoldersecurity| ADMIN$| C:\Windows| NT SERVICE\TrustedInstaller| FullControl
+Sharefoldersecurity| ADMIN$| C:\Windows| NT SERVICE\TrustedInstaller| FullControl
+Sharefoldersecurity| ADMIN$| C:\Windows| APPLICATION PACKAGE AUTHORITY\ALL APPLICATION PACKAGES| ReadAndExecute, Synchronize
+Sharefoldersecurity| ADMIN$| C:\Windows| APPLICATION PACKAGE AUTHORITY\ALL APPLICATION PACKAGES| ReadAndExecute, Synchronize
+Sharefoldersecurity| ADMIN$| C:\Windows| APPLICATION PACKAGE AUTHORITY\ALL RESTRICTED APPLICATION PACKAGES| ReadAndExecute, Synchronize
+Sharefoldersecurity| ADMIN$| C:\Windows| APPLICATION PACKAGE AUTHORITY\ALL RESTRICTED APPLICATION PACKAGES| ReadAndExecute, Synchronize
+Sharefolder| Default share| Default share| | OK| | True| | C$| C:\| Disk Drive Admin
+Sharefoldersecurity| C$| C:\| NT AUTHORITY\Authenticated Users| AppendData
+Sharefoldersecurity| C$| C:\| NT AUTHORITY\Authenticated Users| Modify, Synchronize
+Sharefoldersecurity| C$| C:\| NT AUTHORITY\SYSTEM| FullControl
+Sharefoldersecurity| C$| C:\| BUILTIN\Administrators| FullControl
+Sharefoldersecurity| C$| C:\| BUILTIN\Users| ReadAndExecute, Synchronize
+Sharefolder| Default share| Default share| | OK| | True| | D$| D:\| Disk Drive Admin
+Sharefoldersecurity| D$| D:\| NT AUTHORITY\Authenticated Users| Modify, Synchronize
+Sharefoldersecurity| D$| D:\| NT AUTHORITY\Authenticated Users| Modify, Synchronize
+Sharefoldersecurity| D$| D:\| NT AUTHORITY\SYSTEM| FullControl
+Sharefoldersecurity| D$| D:\| NT AUTHORITY\SYSTEM| FullControl
+Sharefoldersecurity| D$| D:\| BUILTIN\Administrators| FullControl
+Sharefoldersecurity| D$| D:\| BUILTIN\Administrators| FullControl
+Sharefoldersecurity| D$| D:\| BUILTIN\Users| ReadAndExecute, Synchronize
+Sharefoldersecurity| D$| D:\| BUILTIN\Users| ReadAndExecute, Synchronize
+Sharefolder| Remote IPC| Remote IPC| | OK| | True| | IPC$| | IPC Admin
+perfilwifi| All User Profile     : FliaLoRod-5G
+perfilwifi| All User Profile     : FliaLoRod
+perfilwifi| All User Profile     : vw-36292
+perfilwifi| All User Profile     : DONATO
+perfilwifi| All User Profile     : ALOJ. AGUADULCE
+perfilwifi| All User Profile     : AXS_5G_XDmR6X
+perfilwifi| All User Profile     : AXS_2.4G_XDmR6X
+perfilwifi| All User Profile     : JOSELUIS_plus
+perfilwifi| All User Profile     : LoboMovil
+perfilwifi| All User Profile     : LEONORA 5G
+perfilwifi| All User Profile     : GUZMAN
+perfilwifi| All User Profile     : LoboMovilPhone
+perfilwifi| All User Profile     : HOTEL PLAZA COLON
+perfilwifi| All User Profile     : Natalia 5G
+perfilwifi| All User Profile     : Cognos 5G
+perfilwifi| All User Profile     : vw-31923_5G
+perfilwifi| All User Profile     : LOPEZ
+perfilwifi| All User Profile     : InternetHadita
+perfilwifi| All User Profile     : FLIALW -5G
+perfilwifi| All User Profile     : FLIALW
+PhysicalMemory| 16
+LogicalDiskD| C:| Local Fixed Disk| C:| NTFS| Local hard disk| 18| 118
+LogicalDiskD| D:| Local Fixed Disk| D:| NTFS| Local hard disk| 512| 931
+LogicalDisk| 530| 1050
+Processor| Intel(R) Core(TM) i7-6700HQ CPU @ 2.60GHz | GenuineIntel
+BIOS| H3N0CVKKR03813E     | American Megatrends Inc.
+APLICACION|Windows Driver Package - ASUS (AsusSGDrv) Mouse  (08/06/2015 8.0.0.19)| 08/06/2015 8.0.0.19| | ASUS
+APLICACION|Conexant HD Audio| 8.66.94.50| | Conexant
+APLICACION|EaseUS Data Recovery Wizard| | 20220715| EaseUS
+APLICACION|Git| 2.33.0.2| 20220214| The Git Development Community
+APLICACION|Microsoft Azure Compute Emulator - v2.9.7| 2.9.8999.43| 02/14/2022| Microsoft Corporation
+APLICACION|Microsoft SQL Server 2019 (64-bit)| | | Microsoft Corporation
+APLICACION|Microsoft Visual Studio 2010 Tools for Office Runtime (x64)| 10.0.50903| | Microsoft Corporation
+APLICACION|Notepad++ (64-bit x64)| 8.4.8| | Notepad++ Team
+APLICACION|Aplicaciones de Microsoft 365 para empresas - es-es| 16.0.16529.20226| | Microsoft Corporation
+APLICACION|Microsoft OneDrive| 23.180.0828.0001| | Microsoft Corporation
+APLICACION|TeamViewer| 15.36.9| | TeamViewer
+APLICACION|WinRAR 6.11 (64-bit)| 6.11.0| | win.rar GmbH
+APLICACION|VMware Workstation| 17.0.0| 20230314| VMware, Inc.
+APLICACION|Microsoft Visual C++ 2010 Redistributable - x64 10.0.40219| 10.0.40219| 20220913| Microsoft Corporation
+APLICACION|Microsoft Update Health Tools| 3.73.0.0| 20230912| Microsoft Corporation
+APLICACION|Microsoft VSS Writer for SQL Server 2019| 15.0.2000.5| 20220214| Microsoft Corporation
+APLICACION|Microsoft SQL Server 2019 T-SQL Language Service | 15.0.2000.5| 20220214| Microsoft Corporation
+APLICACION|GlobalProtect| 6.2.0| 20230717| Palo Alto Networks
+APLICACION|Microsoft SQL Server 2019 LocalDB | 15.0.4153.1| 20220214| Microsoft Corporation
+APLICACION|Microsoft Azure PowerShell - April 2018| 5.7.0.18831| 20220214| Microsoft Corporation
+APLICACION|LEGO® MINDSTORMS® Education EV3 Classroom| 1.5.0| 20230331| LEGO System A/S
+APLICACION|IIS 10.0 Express| 10.0.05927| 20220214| Microsoft Corporation
+APLICACION|Microsoft System CLR Types for SQL Server 2019| 15.0.2000.5| 20220214| Microsoft Corporation
+APLICACION|Microsoft Visual C++ 2008 Redistributable - x64 9.0.30729.6161| 9.0.30729.6161| 20220913| Microsoft Corporation
+APLICACION|Microsoft SQL Server 2019 Setup (English)| 15.0.4034.2| 20220214| Microsoft Corporation
+APLICACION|Azure Data Studio| 1.37.0| 20220810| Microsoft Corporation
+APLICACION|Microsoft Visual Studio Installer| 3.1.2194.40450| 20220214| Microsoft Corporation
+APLICACION|Microsoft MPI (10.0.12498.5)| 10.0.12498.5| 20220214| Microsoft Corporation
+APLICACION|Microsoft ODBC Driver 17 for SQL Server| 17.7.2.1| 20220214| Microsoft Corporation
+APLICACION|Microsoft Azure Authoring Tools - v2.9.7| 2.9.8999.45| 20220214| Microsoft Corporation
+APLICACION|Microsoft OLE DB Driver for SQL Server| 18.5.0.0| 20220214| Microsoft Corporation
+APLICACION|Microsoft SQL Server 2012 Native Client | 11.4.7462.6| 20220214| Microsoft Corporation
+APLICACION|Adobe Acrobat (64-bit)| 23.003.20284| 20230911| Adobe
+APLICACION|Microsoft Visual C++ 2005 Redistributable - x64 8.0.61000| 8.0.61000| 20220913| Microsoft Corporation
+APLICACION|Update for Windows 10 for x64-based Systems (KB5001716)| 8.92.0.0| 20230704| Microsoft Corporation
+APLICACION|Microsoft Azure Libraries for .NET – v2.9| 3.0.0127.060| 20220214| Microsoft Corporation
+APLICACION|LINGO 18.0/x64| 18.0| 20220303| Lindo Systems Inc
+APLICACION|Microsoft .NET SDK 6.0.102 (x64) from Visual Studio| 6.1.222.6914| 20220214| Microsoft Corporation
+APLICACION|Microsoft Web Deploy 4.0| 10.0.5402| 20220214| Microsoft Corporation
+APLICACION|Visual Studio Enterprise 2022| 17.0.6| 20220214| Microsoft Corporation
+APLICACION|AnyDesk| ad 7.1.5| | AnyDesk Software GmbH
+APLICACION|Battle.net| | | Blizzard Entertainment
+APLICACION|By Click Downloader| 2.3.23| | ByClick
+APLICACION|Cisco AnyConnect Secure Mobility Client | 4.4.00243| | Cisco Systems, Inc.
+APLICACION|Citrix Workspace 2207| 22.7.0.24| | Citrix Systems, Inc.
+APLICACION|Diablo III| | | Blizzard Entertainment
+APLICACION|Diablo Immortal| | | Blizzard Entertainment
+APLICACION|emu8086 microprocessor emulator| | | emu8086
+APLICACION|Google Chrome| 116.0.5845.189| 20230912| Google LLC
+APLICACION|Internet Download Manager| 6.41.15| | Tonec Inc.
+APLICACION|JDownloader 2| 2.0| | AppWork GmbH
+APLICACION|K-Lite Codec Pack 17.5.2 Standard| 17.5.2| 20230414| KLCP
+APLICACION|Microsoft Edge| 116.0.1938.81| 20230913| Microsoft Corporation
+APLICACION|Microsoft Edge Update| 1.3.177.11| | 
+APLICACION|Microsoft Edge WebView2 Runtime| 116.0.1938.76| 20230912| Microsoft Corporation
+APLICACION|Microsoft Help Viewer 2.3| 2.3.28307| | Microsoft Corporation
+APLICACION|McAfee®| 16.0 R51| | McAfee, LLC
+APLICACION|Music Duplicate Remover X| | 20221229| ManiacTools.com
+APLICACION|Adobe Photoshop 2021| 22.5.6.749| 9/13/2022| Adobe Systems Incorporated
+APLICACION|StarCraft II| | | Blizzard Entertainment
+APLICACION|Microsoft SQL Server Management Studio - 18.12.1| 15.0.18424.0| | Microsoft Corporation
+APLICACION|The Binding of Isaac Rebirth - ElAmigos versión 25.03.2022| 25.03.2022| 20220516| Nicalis, Inc.
+APLICACION|Microsoft GameInput| 10.1.22621.3036| 20230316| Microsoft Corporation
+APLICACION|WebAdvisor by McAfee| 4.1.1.834| | McAfee, LLC
+APLICACION|Windows Software Development Kit - Windows 10.0.19041.685| 10.1.19041.685| | Microsoft Corporation
+APLICACION|ASUS Smart Gesture| 4.0.9| 20220214| ASUS
+APLICACION|Wondershare Helper Compact 2.6.0| 2.6.0| 20220826| Wondershare
+APLICACION|Browser for SQL Server 2019| 15.0.2000.5| 20220214| Microsoft Corporation
+APLICACION|ApowerREC V1.6.3.4| 1.6.3.4| 20230302| Apowersoft LIMITED
+APLICACION|Microsoft Visual C++ 2005 Redistributable - x86 8.0.61001| 8.0.61001| 20220913| Microsoft Corporation
+APLICACION|Teams Machine-Wide Installer| 1.4.0.22976| 20220214| Microsoft Corporation
+APLICACION|Minecraft Launcher| 1.0.0.0| 20220214| Mojang
+APLICACION|Python Launcher| 3.9.7546.0| 20220214| Python Software Foundation
+APLICACION|Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.6161| 9.0.30729.6161| 20220913| Microsoft Corporation
+APLICACION|Intel® PROSet/Wireless Software| 19.0.1| | Intel Corporation
+APLICACION|Stonesoft VPN Client 6.2.2| 6.2.3214| | Forcepoint LLC
+APLICACION|Windows SDK AddOn| 10.1.0.0| 20220214| Microsoft Corporation
+APLICACION|Microsoft Visual C++ 2010 Redistributable - x86 10.0.40219| 10.0.40219| 20220913| Microsoft Corporation
+APLICACION|Microsoft Visual Studio Tools for Applications 2017| 15.0.27520| | Microsoft Corporation
+userprofiles| All Users
+userprofiles| Default
+userprofiles| Default User
+userprofiles| Dorian
+userprofiles| Public
+BROWSER| Chrome| Dorian| History| http://acordes.lacuerda.net
+BROWSER| Chrome| Dorian| History| http://aulavirtual.utel.edu.mx
+BROWSER| Chrome| Dorian| History| http://codepen.io
+BROWSER| Chrome| Dorian| History| http://cssmenumaker.com
+BROWSER| Chrome| Dorian| History| http://dragonball.sullca.com
+BROWSER| Chrome| Dorian| History| http://gmail.com
+BROWSER| Chrome| Dorian| History| http://lacuerda.net
+BROWSER| Chrome| Dorian| History| http://t3.gstatic.com
+BROWSER| Chrome| Dorian| History| http://web.tursos.com
+BROWSER| Chrome| Dorian| History| http://www.3dcsstext.com
+BROWSER| Chrome| Dorian| History| http://www.bannersnack.com
+BROWSER| Chrome| Dorian| History| http://www.creativosonline.org
+BROWSER| Chrome| Dorian| History| http://www.google.com
+BROWSER| Chrome| Dorian| History| http://www.la-razon.com
+BROWSER| Chrome| Dorian| History| http://www.notifysnack.com
+BROWSER| Chrome| Dorian| History| http://www.ociosos.com
+BROWSER| Chrome| Dorian| History| http://www.tv-porinternet.com
+BROWSER| Chrome| Dorian| History| http://www.youtube.com
+BROWSER| Firefox| Dorian| History| 
+TRAFICORED| Wi-Fi| 58876064| 102423| 18638264| 75703|
+TRAFICORED| Ethernet| 0| 0| 0| 0|
+TRAFICORED| Local_Area_Connection| 0| 0| 0| 0|

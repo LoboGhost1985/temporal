@@ -1,0 +1,5 @@
+az login
+az account set --subscription "Patrocinio de Microsoft Azure"
+az acr login --name sabueso
+docker tag sabuesomicro:dev sabueso.azurecr.io/sabueso:v1
+docker push sabueso.azurecr.io/sabueso:v1
